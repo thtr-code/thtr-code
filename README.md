@@ -1,5 +1,5 @@
 ## Hey there👋 
--My name is Thien
+-My name is Thien  
 -I'm a Machine Learning Undergrate Researcher at UC Irvine
 
 ## Projects
