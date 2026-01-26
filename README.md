@@ -1,7 +1,6 @@
 ## Hey there👋 
-I’m a Computer Engineering student who likes working on projects at the intersection of  
-**coding, data, and systems**.
-
+-My name is Thien
+-I'm a Machine Learning Undergrate Researcher at UC Irvine
 
 ## Projects
 
